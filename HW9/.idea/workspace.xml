@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c697eaed-63f2-4bad-b006-87e4660c57df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UuaxW5KirpiHDRrrEkxjYY3sWV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="C:/Program Files/nodejs/node" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\tepti\Desktop\Web\HW9\node_modules\prettier" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="C:/Program Files/nodejs/node_modules/npm/bin/npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="C:/Program Files/nodejs/node" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c697eaed-63f2-4bad-b006-87e4660c57df" name="Default Changelist" comment="" />
+      <created>1576209181068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576209181068</updated>
+      <workItem from="1576209184410" duration="1153000" />
+      <workItem from="1576210434723" duration="10850000" />
+      <workItem from="1576830387722" duration="51000" />
+      <workItem from="1576832213219" duration="221000" />
+      <workItem from="1576832482695" duration="169000" />
+      <workItem from="1576833118139" duration="992000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="90" key="#ESLint" timestamp="1576210960681">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="90" key="#ESLint/0.0.1536.864@0.0.1536.864" timestamp="1576210960681" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576210792319">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1576210792319" />
+    <state x="627" y="350" key="FileChooserDialogImpl" timestamp="1576830436525">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="627" y="350" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1576830436525" />
+    <state width="1515" height="177" key="GridCell.Tab.0.bottom" timestamp="1576231058389">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="177" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1576231058389" />
+    <state width="1515" height="177" key="GridCell.Tab.0.center" timestamp="1576231058389">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="177" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1576231058389" />
+    <state width="1515" height="177" key="GridCell.Tab.0.left" timestamp="1576231058389">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="177" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1576231058389" />
+    <state width="1515" height="177" key="GridCell.Tab.0.right" timestamp="1576231058389">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="177" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1576231058389" />
+    <state x="485" y="240" key="jetbrains.nodejs.interpreters-dialog" timestamp="1576210781474">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="485" y="240" key="jetbrains.nodejs.interpreters-dialog/0.0.1536.864@0.0.1536.864" timestamp="1576210781474" />
+  </component>
+</project>
